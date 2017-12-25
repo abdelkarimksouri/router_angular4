@@ -1,0 +1,35 @@
+<div class="container">
+        <div class="row main">
+            <a class="btn btn-info" [routerLink]="['/addemployee']">Create New Employee</a> 
+            
+            
+            <table class="table table-bordered" style="width: 90%;margin-top: 51px;">
+                <thead>
+                  <tr>
+                    <td>Name</td>
+                    <td>Position</td>
+                    <td>Department</td>
+                    <td width=275 align="center">Action</td>
+                  </tr>
+                </thead>
+                <tbody>
+                        <tr *ngFor="let employee of employees">
+                                <td>{{employee.name}}</td>
+                                <td>{{employee.position}}</td>
+                                <td>{{employee.department}}</td>
+                                <td width=275> 
+                                    <a class="btn btn-info" routerLink="/showproduct/show/{{employee._id}}">Detail</a> 
+                                    <input type="button" class="btn btn-success" (click) = "onclick(employee._id)"  value="edit"/>
+                                    <a class="btn btn-danger" (click)="deleteEmployee(employee._id)">Delete</a>
+                                </td>
+                            </tr>
+                  
+                </tbody>
+
+
+
+              
+              </table>
+          </div>
+</div>
+<router-outlet></router-outlet>

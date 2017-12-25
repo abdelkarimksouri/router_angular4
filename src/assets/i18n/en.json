@@ -1,0 +1,175 @@
+{
+  "customDialogs": {
+    "label": "Custom dialogs are built with Covalent UI Platform"
+  },
+  "dialogs": {
+    "label": "Dialogs"
+  },
+  "applicationBuiltInWith": {
+    "label": "This application is built with modules"
+  },
+  "betaVersion": {
+    "label": "Beta version"
+  },
+  "openAlert": {
+    "label": "Open alert"
+  },
+  "openConfirm": {
+    "label": "Open confirm"
+  },
+  "openPrompt": {
+    "label": "Open prompt"
+  },
+  "openComponent": {
+    "label": "Open component"
+  },
+  "searchHere": {
+    "label": "Search here"
+  },
+  "noResults": {
+    "label": "No results to display."
+  },
+  "rowPerPage": {
+    "label": "Row per page"
+  },
+  "of": {
+    "label": "of"
+  },
+  "navbar": {
+    "languages": {
+      "en": "English",
+      "fr": "French"
+    },
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "menu": {
+    "home": "Home",
+    "notes": "My notes",
+    "tools": "Tools",
+    "users": "Users"
+  },
+  "note": {
+    "label": "Notes",
+    "readMore":"Read more...",
+    "titles": {
+      "view": "Note view",
+      "list": "Notes list",
+      "create": "Create note"
+    },
+    "id": {
+      "label": "Id"
+    },
+    "title": {
+      "label": "Title",
+      "validations": {
+        "required": "Title is required.",
+        "minlength": "Title must be at least three characters.",
+        "maxlength": "Title cannot exceed 50 characters."
+      }
+    },
+    "body": {
+      "label": "Body",
+      "validations": {
+        "required": "Body is required.",
+        "minlength": "Body must be at least three characters.",
+        "maxlength": "Body cannot exceed 250 characters."
+      }
+    },
+    "shared": {
+      "label": "Shared"
+    },
+    "createdDate": {
+      "label": "Date of creation"
+    }
+  },
+  "login": {
+    "label": "Login",
+    "username": {
+      "label": "Username",
+      "validations": {
+        "email": "Username pattern required.",
+        "required": "Username is required.",
+        "minlength": "Username must be at least three characters.",
+        "maxlength": "Username cannot exceed 250 characters."
+      }
+    },
+    "password": {
+      "label": "Password",
+      "validations": {
+        "required": "Password is required.",
+        "minlength": "Password must be at least three characters.",
+        "maxlength": "Password cannot exceed 250 characters."
+      }
+    }
+  },
+  "user": {
+    "label": "Users",
+    "titles": {
+      "edit": "Edit profile",
+      "list": "Users list"
+    },
+    "username": {
+      "label": "Username",
+      "validations": {
+        "required": "Username is required.",
+        "minlength": "Username must be at least three characters.",
+        "maxlength": "Username cannot exceed 50 characters."
+      }
+    },
+    "email": {
+      "label": "Email",
+      "validations": {
+        "email": "Email pattern required.",
+        "required": "Email is required.",
+        "minlength": "Email must be at least three characters.",
+        "maxlength": "Email cannot exceed 250 characters."
+      }
+    },
+    "lastName": {
+      "label": "LastName",
+      "validations": {
+        "required": "LastName is required.",
+        "minlength": "LastName must be at least three characters.",
+        "maxlength": "LastName cannot exceed 250 characters."
+      }
+    },
+    "firstName": {
+      "label": "FirstName",
+      "validations": {
+        "required": "FirstName is required.",
+        "minlength": "FirstName must be at least three characters.",
+        "maxlength": "FirstName cannot exceed 250 characters."
+      }
+    },
+    "plainPassword": {
+      "label": "Password",
+      "validations": {
+        "required": "Password is required.",
+        "minlength": "Password must be at least three characters.",
+        "maxlength": "Password cannot exceed 250 characters."
+      }
+    },
+    "password": {
+      "label": "Password"
+    },
+    "register": {
+      "label": "Register"
+    },
+    "userName": {
+      "label": "UserName"
+    },
+    "login": {
+      "label": "Login"
+    }
+  },
+  "buttons": {
+    "submit": "Submit",
+    "actions": "Actions",
+    "edit": "Edit",
+    "add": "Add",
+    "view": "View",
+    "list": "List",
+    "confirm": "Confirm"
+  }
+}

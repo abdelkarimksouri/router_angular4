@@ -1,0 +1,179 @@
+{
+  "customDialogs": {
+    "label": "Les fenêtres de dialogs sont implémentées avec Covalent UI Platform"
+  },
+  "dialogs": {
+    "label": "Fenêtres"
+  },
+  "applicationBuiltInWith": {
+    "label": "Cette application est implémentée avec les modules suivants"
+  },
+  "betaVersion": {
+    "label": "Version beta"
+  },
+  "openAlert": {
+    "label": "Ouvrir alert"
+  },
+  "openConfirm": {
+    "label": "Ouvrir confirm"
+  },
+  "openPrompt": {
+    "label": "Ouvrir prompt"
+  },
+  "openComponent": {
+    "label": "Ouvrir composante"
+  },
+  "searchHere": {
+    "label": "Chercher ici"
+  },
+  "noResults": {
+    "label": "Pas de resultats à afficher."
+  },
+  "rowPerPage": {
+    "label": "Ligne par page"
+  },
+  "of": {
+    "label": "parmis"
+  },
+  "navbar": {
+    "languages": {
+      "en": "Anglais",
+      "fr": "Français"
+    },
+    "profile": "Profil",
+    "logout": "Se déconnecter"
+  },
+  "languages": {
+    "en": "Anglais",
+    "fr": "Français"
+  },
+  "menu": {
+    "home": "Acceuil",
+    "notes": "Mes notes",
+    "tools": "Outils",
+    "users": "Utilisateurs"
+  },
+  "note": {
+    "label": "Notes",
+    "readMore":"Lire plus...",
+    "titles": {
+      "view": "Post vue",
+      "list": "Liste des Notes",
+      "create": "Créer un nouveau note"
+    },
+    "id": {
+      "label": "Id"
+    },
+    "title": {
+      "label": "Titre",
+      "validations": {
+        "required": "Le titre est requis.",
+        "minlength": "Le titre doit comporter au moins trois caractères.",
+        "maxlength": "Le titre ne peut excéder 50 caractères."
+      }
+    },
+    "body": {
+      "label": "Corp",
+      "validations": {
+        "required": "Le corp est requis.",
+        "minlength": "Le corp doit comporter au moins trois caractères.",
+        "maxlength": "Le corp ne peut excéder 250 caractères."
+      }
+    },
+    "shared": {
+      "label": "Partagé"
+    },
+    "createdDate": {
+      "label": "Date de creation"
+    }
+  },
+  "login": {
+    "label": "Se connecter",
+    "username": {
+      "label": "Nom d'utilisateur",
+      "validations": {
+        "email": "Pattern email requis.",
+        "required": "Nom d'utilisateur requis.",
+        "minlength": "Nom d'utilisateur must be at least three characters.",
+        "maxlength": "Nom d'utilisateur cannot exceed 250 characters."
+      }
+    },
+    "password": {
+      "label": "Mot de passe",
+      "validations": {
+        "required": "Le mot de passe est requis.",
+        "minlength": "Le mot de passe doit comporter au moins trois caractères.",
+        "maxlength": "Le mot de passe ne peut excéder 250 caractères."
+      }
+    }
+  },
+  "user": {
+    "label": "Utilisateurs",
+    "titles": {
+      "edit": "Editer le profil",
+      "list": "Liste des utilisateurs"
+    },
+    "username": {
+      "label": "Nom d'utilisateur",
+      "validations": {
+        "required": "Le nom d'utilisateur est requis.",
+        "minlength": "Le nom d'utilisateur doit comporter au moins trois caractères.",
+        "maxlength": "Le nom d'utilisateur ne peut excéder 50 caractères."
+      }
+    },
+    "email": {
+      "label": "Email",
+      "validations": {
+        "email": "Un pattern email est requis.",
+        "required": "L'email est requis.",
+        "minlength": "L'email doit comporter au moins trois caractères.",
+        "maxlength": "L'email ne peut excéder 250 caractères."
+      }
+    },
+    "lastName": {
+      "label": "Nom",
+      "validations": {
+        "required": "Le nom est requis.",
+        "minlength": "Le nom doit comporter au moins trois caractères.",
+        "maxlength": "Le nom ne peut excéder 250 caractères."
+      }
+    },
+    "firstName": {
+      "label": "Prénom",
+      "validations": {
+        "required": "Le prénom est requis.",
+        "minlength": "Le prénom doit comporter au moins trois caractères.",
+        "maxlength": "Le prénom ne peut excéder 250 caractères."
+      }
+    },
+    "plainPassword": {
+      "label": "Mot de passe",
+      "validations": {
+        "required": "Le mot de passe est requis.",
+        "minlength": "Le mot de passe doit comporter au moins trois caractères.",
+        "maxlength": "Le mot de passe ne peut excéder 250 caractères."
+      }
+    },
+    "password": {
+      "label": "Mot de passe"
+    },
+    "register": {
+      "label": "S'inscrire"
+    },
+    "userName": {
+      "label": "Nom d'utilisateur"
+    },
+    "login": {
+      "label": "Se connecter"
+    }
+  },
+  "buttons": {
+    "submit": "Envoyer",
+    "actions": "Actions",
+    "edit": "Editer",
+    "add": "Ajouter",
+    "view": "Afficher",
+    "list": "Lister",
+    "confirm": "Confirmer"
+  }
+}
