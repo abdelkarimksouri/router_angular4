@@ -1,3 +1,6 @@
+# Description for project
+This project show you how can you use a json web token (jwt) and auth_guard in angular 4 and create a simple crud with it  
+
 # FirstProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
